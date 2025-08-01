@@ -12,10 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Continue
   m_EditorClassIdentifier: 
-  storyText: 'You decided to leave the merchant and the man alone.
-
-
-    Press 1
-    to continue to Chapter 4.'
+  storyText: You decided to leave the merchant and the man alone.
   nextStoryBlocks:
   - {fileID: 11400000, guid: 31d8c57fb57c7483497819e7bcf5193f, type: 2}
+  options:
+  - '  Continue'

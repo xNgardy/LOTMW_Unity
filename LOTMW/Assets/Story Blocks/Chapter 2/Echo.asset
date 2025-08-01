@@ -27,8 +27,8 @@ MonoBehaviour:
 
     YAYY!! You got an item called Strudy Shield!!
 
-
-    Press 1 to
-    continue to Chapter 3.'
+'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 0671b86e6828445aa9c339fb9aa72e77, type: 2}
+  options:
+  - '  Continue'

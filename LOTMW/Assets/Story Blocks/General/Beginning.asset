@@ -22,7 +22,8 @@ MonoBehaviour:
     a royal knight, you embarked on a challenging journey to defeat the dragon and
     fulfill your destiny.
 
-
-    Press 1 to start Chapter 1.'
+'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 11dcfed5633784cceb1146a64d2902bc, type: 2}
+  options:
+  - '  Continue'

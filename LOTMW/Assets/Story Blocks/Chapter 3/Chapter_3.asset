@@ -21,15 +21,10 @@ MonoBehaviour:
     simply pass by without interfering.
 
 
-    What will you do?
-
-
-    Press 1: Pass
-    by without interfering and continue your journey.
-
-
-    Press 2: Intervene and
-    offer assistance to the wounded merchant.'
+    What will you do?'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 9812e27a1d73345e48ad0566f7e281c2, type: 2}
   - {fileID: 11400000, guid: 38dfff246f38841b190747b485d9f0e2, type: 2}
+  options:
+  - '  Pass by without interfering and continue your journey.'
+  - '  Intervene and offer assistance to the wounded merchant.'

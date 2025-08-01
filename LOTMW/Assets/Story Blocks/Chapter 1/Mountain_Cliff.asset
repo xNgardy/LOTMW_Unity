@@ -16,10 +16,8 @@ MonoBehaviour:
     to pass the obstacles very quickly!
 
 
-    Press 1 to continue to Chapter 2.
-
-
-
 '
   nextStoryBlocks:
   - {fileID: 11400000, guid: a0578299345634e898fc093984a5cb13, type: 2}
+  options:
+  - '  Continue'

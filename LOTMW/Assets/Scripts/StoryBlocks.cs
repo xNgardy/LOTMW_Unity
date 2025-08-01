@@ -6,7 +6,8 @@ public class StoryBlocks : ScriptableObject
 {
     [TextArea(10, 14)] [SerializeField] private string storyText;
     [SerializeField] private StoryBlocks[] nextStoryBlocks;
-
+    [SerializeField] private string[] options;
+    
     public string GetStoryText()
     {
         return storyText;
@@ -16,4 +17,10 @@ public class StoryBlocks : ScriptableObject
     {
         return nextStoryBlocks;
     }
+
+    public string[] GetOptions()
+    {
+        return options;
+    }
+    
 }

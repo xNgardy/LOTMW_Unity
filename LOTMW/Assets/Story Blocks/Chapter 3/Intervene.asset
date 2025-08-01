@@ -23,12 +23,10 @@ MonoBehaviour:
 
     What will you do?
 
-
-    Press 1: Fight
-    against the merchant.
-
-
-    Press 2: Fight against the man.'
+'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 92011cff0a23745c5aad3342c06957ca, type: 2}
   - {fileID: 11400000, guid: f8032e05e53e24345ab6e59b749fc725, type: 2}
+  options:
+  - '  Fight against the merchant.'
+  - '  Fight against the man.'

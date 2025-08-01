@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Fight
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: You joined to the Arena!!
   nextStoryBlocks: []
+  options: []

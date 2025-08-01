@@ -18,13 +18,10 @@ MonoBehaviour:
     a week, you come to a crossroads with two paths.
 
     Now, you must decide which
-    path to take:
-
-
-    Press 1: Swamp Road
-
-
-    Press 2: Mountain Cliff'
+    path to take:'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 85c101e2714c74177b12c7452178990e, type: 2}
   - {fileID: 11400000, guid: 7b0d309d3ed214a2a9cd5e439496cebc, type: 2}
+  options:
+  - '  Swamp Road'
+  - '  Mountain Cliff'

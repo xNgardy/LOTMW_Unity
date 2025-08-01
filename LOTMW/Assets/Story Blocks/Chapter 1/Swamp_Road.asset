@@ -18,12 +18,10 @@ MonoBehaviour:
 
     GAME OVER!!
 
-
-    Press 1 to start
-    your journey again.
-
-
-    Press 2 to go back to the main menu.'
+'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 57e844e479c7e43fdb7b0dff68d92bea, type: 2}
   - {fileID: 11400000, guid: 5684cd638d6f9478f9bc9f976251a19b, type: 2}
+  options:
+  - '  Start Again'
+  - '  Main Menu'

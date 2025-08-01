@@ -12,10 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Eliminate_the_troll.
   m_EditorClassIdentifier: 
-  storyText: 'You killed the troll quickly. What a waste of time!
-
-
-    Press 1 to
-    continue to Chapter 3.'
+  storyText: You killed the troll quickly. What a waste of time!
   nextStoryBlocks:
   - {fileID: 11400000, guid: 0671b86e6828445aa9c339fb9aa72e77, type: 2}
+  options:
+  - '  Continue'

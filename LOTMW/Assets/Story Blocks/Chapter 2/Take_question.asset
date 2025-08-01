@@ -18,12 +18,10 @@ MonoBehaviour:
     "Me spek without a mout and heer without ears. I
     have no body, but I come alive wit wind. Wat am I?"
 
-
-    Press 1: Echo
-
-
-    Press
-    2: Shadow'
+'
   nextStoryBlocks:
   - {fileID: 11400000, guid: f4168b4682f1e406fa7eea77740aa192, type: 2}
   - {fileID: 11400000, guid: 40c6acaad031d4e64a006107891860ea, type: 2}
+  options:
+  - '  Echo'
+  - '  Shadow'
