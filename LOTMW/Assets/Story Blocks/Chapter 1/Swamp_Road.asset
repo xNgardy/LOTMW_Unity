@@ -25,3 +25,7 @@ MonoBehaviour:
   options:
   - '  Start Again'
   - '  Main Menu'
+  hasItem: 0
+  resetItems: 1
+  hasRestriction: 0
+  finalScene: 0

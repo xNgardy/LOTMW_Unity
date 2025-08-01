@@ -18,5 +18,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e9759d6e716754c878eefd6f352a1f02, type: 2}
   - {fileID: 11400000, guid: 2aa7392db554a4a62bc4b340117a65b3, type: 2}
   options:
-  - Fight in the Arena.
-  - Pass the Arena.
+  - '  Fight in the Arena.'
+  - '  Pass the Arena.'
+  hasItem: 0
+  resetItems: 0
+  hasRestriction: 0
+  finalScene: 0

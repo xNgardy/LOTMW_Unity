@@ -18,7 +18,9 @@ MonoBehaviour:
 '
   nextStoryBlocks:
   - {fileID: 11400000, guid: 57e844e479c7e43fdb7b0dff68d92bea, type: 2}
-  - {fileID: 11400000, guid: 5b0fc74a1bf1d4da7bd072b57943250f, type: 2}
   options:
   - '  Start'
-  - '  Settings'
+  hasItem: 0
+  resetItems: 0
+  hasRestriction: 0
+  finalScene: 0

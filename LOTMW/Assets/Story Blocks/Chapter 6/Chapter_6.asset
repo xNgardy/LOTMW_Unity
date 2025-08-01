@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
+  m_Name: Chapter_6
+  m_EditorClassIdentifier: 
+  storyText: The time has come; you are ready to face the Elden Dragon. Your decisions
+    throughout the journey may have an effect on the outcome of the fight.
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 7f13526ef48a1410f9eb0282aa72fb48, type: 2}
+  - {fileID: 11400000, guid: 54606b1fa36c64393ae900a45c81dbf4, type: 2}
+  - {fileID: 11400000, guid: 535573c60397140e78dead00185da370, type: 2}
+  - {fileID: 11400000, guid: 6d0cb41371cf440728999f6620b8c718, type: 2}
+  - {fileID: 11400000, guid: 397816e5b023e4d4b9f05c1d1fa7a476, type: 2}
+  - {fileID: 11400000, guid: 551ce9f8ef0a7463bb92a2083f9c3d44, type: 2}
+  - {fileID: 11400000, guid: 4e451db29f3ff43ca9300b765a772fbd, type: 2}
+  - {fileID: 11400000, guid: 106e0c5f049df413790bc43a7507eb43, type: 2}
+  options:
+  - '  Outcome'
+  hasItem: 0
+  resetItems: 0
+  hasRestriction: 0
+  finalScene: 1

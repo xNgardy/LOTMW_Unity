@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Pass
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStoryBlocks: []
+  storyText: You didn't join the Arena.
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 856caaefa08884fd589688f532bf381f, type: 2}
+  options:
+  - '  Continue'
+  hasItem: 0
+  resetItems: 0
+  hasRestriction: 0
+  finalScene: 0

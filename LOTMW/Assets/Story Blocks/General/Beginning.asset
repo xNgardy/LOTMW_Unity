@@ -27,3 +27,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 11dcfed5633784cceb1146a64d2902bc, type: 2}
   options:
   - '  Continue'
+  hasItem: 0
+  resetItems: 1

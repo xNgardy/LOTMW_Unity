@@ -5,26 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07e57393-1c64-47c2-b91a-3f7cb09beb26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Fail.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Success.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Success.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5/Chapter_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5/Chapter_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5/Fight.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5/Flee.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5/Flee.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Chapter_6.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Chapter_6.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_2_Bad.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_2_Bad.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_2_Good.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_2_Good.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_3_Bad.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_3_Bad.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_3_Good.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_3_Good.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_4_Bad.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_4_Bad.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_4_Good 1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_4_Good 1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 6/Ending_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/dogica SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/dogica SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/dogicapixel SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/dogicapixel SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/dogicapixel.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/dogicapixel.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mono_crash.eda554e9a.0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LOTMW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LOTMW/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Menu.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameLogic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameLogic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/StoryBlocks.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StoryBlocks.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 1/Chapter_1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 1/Chapter_1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 1/Mountain_Cliff.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 1/Mountain_Cliff.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 1/Swamp_Road.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 1/Swamp_Road.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Chapter_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Chapter_2.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Echo.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Echo.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Eliminate_the_troll..asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Eliminate_the_troll..asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Shadow.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Shadow.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Take_question.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 2/Take_question.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Chapter_3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Chapter_3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Continue.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Continue.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Intervene.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Intervene.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Man.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Man.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Merchant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 3/Merchant.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Chapter_4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Chapter_4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Fight.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Fight.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Pass.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Pass.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/General/Beginning.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/General/Beginning.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/General/Menu.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/General/Menu.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/General/Setting.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 5/Fight.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Story Blocks/General/Setting.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Story Blocks/Chapter 4/Fail.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +168,12 @@
       <workItem from="1753791949276" duration="1574000" />
       <workItem from="1754045282958" duration="5528000" />
       <workItem from="1754053874170" duration="4431000" />
+      <workItem from="1754058325699" duration="413000" />
+      <workItem from="1754063835902" duration="8020000" />
+      <workItem from="1754073924643" duration="3608000" />
+      <workItem from="1754077619514" duration="935000" />
+      <workItem from="1754078566768" duration="2352000" />
+      <workItem from="1754082651403" duration="1807000" />
     </task>
     <servers />
   </component>

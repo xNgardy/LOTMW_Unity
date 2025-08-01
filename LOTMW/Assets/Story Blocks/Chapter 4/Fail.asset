@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
+  m_Name: Fail
+  m_EditorClassIdentifier: 
+  storyText: 'You simply died during the first fight. Poor you!
+
+
+    GAME OVER!!'
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 57e844e479c7e43fdb7b0dff68d92bea, type: 2}
+  - {fileID: 11400000, guid: 5684cd638d6f9478f9bc9f976251a19b, type: 2}
+  options:
+  - '  Start Again'
+  - '  Main Menu'
+  hasItem: 0
+  resetItems: 1
+  hasRestriction: 0
+  finalScene: 0

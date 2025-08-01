@@ -32,3 +32,5 @@ MonoBehaviour:
   options:
   - '  Start Again'
   - '  Main Menu'
+  hasItem: 0
+  resetItems: 1

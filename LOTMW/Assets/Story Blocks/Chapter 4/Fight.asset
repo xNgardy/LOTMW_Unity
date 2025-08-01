@@ -13,5 +13,12 @@ MonoBehaviour:
   m_Name: Fight
   m_EditorClassIdentifier: 
   storyText: You joined to the Arena!!
-  nextStoryBlocks: []
-  options: []
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 0162a7ce26da74f3cbc4ec370a6b86eb, type: 2}
+  - {fileID: 11400000, guid: a26332d246eaf42e9ba302b6ea1d1404, type: 2}
+  options:
+  - '  Continue'
+  hasItem: 0
+  resetItems: 0
+  hasRestriction: 1
+  finalScene: 0
