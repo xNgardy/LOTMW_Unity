@@ -31,7 +31,9 @@ MonoBehaviour:
     Press
     1: Eliminate the troll.
 
-    Press 2: Take a chance and answer the troll''s question.'
+
+    Press 2: Take a chance and answer the troll''s
+    question.'
   nextStoryBlocks:
   - {fileID: 11400000, guid: 61ee99e8effc6483199adc2939b065c6, type: 2}
   - {fileID: 11400000, guid: b8a6224b0e08d406d853cd233704a84f, type: 2}

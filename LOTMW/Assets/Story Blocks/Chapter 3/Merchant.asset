@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Merchant
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStoryBlocks: []
+  storyText: "It turns out that the merchant is a slave merchant! \n\nYou defeated
+    the merchant with the help of a man, and as a token of gratitude, the man gave
+    you a life elixir.\n\nYAYY!! You got an item called Life Elixir!!\n\nPress 1
+    to continue to Chapter 4."
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 31d8c57fb57c7483497819e7bcf5193f, type: 2}

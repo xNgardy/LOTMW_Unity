@@ -12,5 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Chapter_3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStoryBlocks: []
+  storyText: 'As you continue on your journey, you come across a merchant engaged
+    in a heated confrontation. The merchant seems to be in trouble and is arguing
+    with another man.
+
+
+    Now, you must decide whether to intervene and help or
+    simply pass by without interfering.
+
+
+    What will you do?
+
+
+    Press 1: Pass
+    by without interfering and continue your journey.
+
+
+    Press 2: Intervene and
+    offer assistance to the wounded merchant.'
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 9812e27a1d73345e48ad0566f7e281c2, type: 2}
+  - {fileID: 11400000, guid: 38dfff246f38841b190747b485d9f0e2, type: 2}

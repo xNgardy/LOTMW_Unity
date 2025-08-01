@@ -12,5 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Chapter_4
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStoryBlocks: []
+  storyText: 'You came across to an Arena!. Will you join to show your power, or
+    pass it
+
+
+    Press 1: Fight in the Arena.
+
+
+    Press 2: Pass the Arena.'
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: e9759d6e716754c878eefd6f352a1f02, type: 2}
+  - {fileID: 11400000, guid: 2aa7392db554a4a62bc4b340117a65b3, type: 2}

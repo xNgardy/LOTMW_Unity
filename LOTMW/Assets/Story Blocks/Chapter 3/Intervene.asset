@@ -12,5 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
   m_Name: Intervene
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStoryBlocks: []
+  storyText: 'Upon closer inspection, you notice that the merchant is wielding an
+    iron cleaver, while the other man has visible bruises on his leg.
+
+
+    Now faced
+    with this additional information, you must make a decision on whether to help
+    the merchant or the injured man.
+
+
+    What will you do?
+
+
+    Press 1: Fight
+    against the merchant.
+
+
+    Press 2: Fight against the man.'
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 92011cff0a23745c5aad3342c06957ca, type: 2}
+  - {fileID: 11400000, guid: f8032e05e53e24345ab6e59b749fc725, type: 2}

@@ -17,4 +17,5 @@ MonoBehaviour:
 
     Press 1
     to continue to Chapter 4.'
-  nextStoryBlocks: []
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 31d8c57fb57c7483497819e7bcf5193f, type: 2}

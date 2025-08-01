@@ -22,4 +22,4 @@ MonoBehaviour:
 
 '
   nextStoryBlocks:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: a0578299345634e898fc093984a5cb13, type: 2}
