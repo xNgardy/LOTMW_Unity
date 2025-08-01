@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
+  m_Name: Beginning
+  m_EditorClassIdentifier: 
+  storyText: 'You are beginning your journey!
+
+
+    You had always dreamt of becoming
+    a royal knight in the kingdom. After years of training, you finally gathered
+    the courage to face the king. However, a fearsome dragon named Elden Dragon suddenly
+    appeared, threatening the kingdom. To prove your worth and earn the title of
+    a royal knight, you embarked on a challenging journey to defeat the dragon and
+    fulfill your destiny.
+
+
+    Press 1 to start Chapter 1.'
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 11dcfed5633784cceb1146a64d2902bc, type: 2}

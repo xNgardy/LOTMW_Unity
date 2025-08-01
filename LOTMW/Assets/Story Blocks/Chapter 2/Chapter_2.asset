@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 136cf3a2fa4fc49d59170d4c5bb126d2, type: 3}
+  m_Name: Chapter_2
+  m_EditorClassIdentifier: 
+  storyText: 'After days of journeying, you finally arrive at a bridge guarded by
+    a troll.
+
+
+    The troll looks at you and grins, saying, "Yu wan to pass! Yu
+    anser ma queston!"
+
+
+    Considering that you are the mighty warrior, it seems
+    unlikely that the troll could defeat you.
+
+
+    Should you take a chance and
+    try to answer the troll''s question or simply eliminate the troll instead?
+
+
+    Press
+    1: Eliminate the troll.
+
+    Press 2: Take a chance and answer the troll''s question.'
+  nextStoryBlocks:
+  - {fileID: 11400000, guid: 61ee99e8effc6483199adc2939b065c6, type: 2}
+  - {fileID: 11400000, guid: b8a6224b0e08d406d853cd233704a84f, type: 2}

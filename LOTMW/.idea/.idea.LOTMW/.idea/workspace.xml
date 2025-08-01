@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07e57393-1c64-47c2-b91a-3f7cb09beb26" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LOTMW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LOTMW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StoryManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StoryManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spritea.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +105,10 @@
       <option name="presentableId" value="Default" />
       <updated>1751204312220</updated>
       <workItem from="1751204313907" duration="1012000" />
-      <workItem from="1751205960990" duration="376000" />
+      <workItem from="1751205960990" duration="1019000" />
+      <workItem from="1753787091776" duration="647000" />
+      <workItem from="1753791949276" duration="1574000" />
+      <workItem from="1754045282958" duration="2018000" />
     </task>
     <servers />
   </component>
